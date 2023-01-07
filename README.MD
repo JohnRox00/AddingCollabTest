@@ -37,7 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Claud,Kaid, Khaizan, Marcus, Michael, Ken
+ex. Claude,Kaid, Khaizan, Marcus, Michael, Ken
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
