@@ -1,4 +1,4 @@
-# Test Title Project
+# Test Title Project group 6
 
 Simple overview of use/purpose.
 
@@ -6,7 +6,7 @@ Simple overview of use/purpose.
 
 An in-depth paragraph about your project and overview of use.
 
-## Getting Started
+## Getting Started 
 
 ### Dependencies
 
